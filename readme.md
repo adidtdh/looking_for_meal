@@ -17,6 +17,7 @@ This app is made for college students who want to eat with people at the dining 
 The purpose of this app is to connect people at the dining hall with each other so people do not have to eat a meal along. The app will act somewhat as an semi automated dating app that matches people with their friends, and in the case that there are no friends, based on their preferences.
 
 ---
+
 # Project
 
 ## Description
@@ -51,3 +52,7 @@ At this point, this project should be minimally functional.
 - Make the interface look nice
 
 At this point, this project should be functional to an acceptable level
+
+# First project disclaminer
+
+This was my first time using javascript, express, html, css, node, react, mongodb, and almost everything else you see in this project. As a result, parts of this project are really poorly done. Given the time requirement and my need to both learn tech stack and write the code, I did not go back and fix the broken code as I learned more. On my next project, I will use my new knowledge to make a better project

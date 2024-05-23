@@ -4,6 +4,17 @@ An app that helps you find friends to eat with on college campuses
 
 ---
 
+# Final Screenshots
+
+
+Home page
+![Home page](./images/1.png)
+
+Home page after leaving table
+![Home page after leaving table](./images/2.png)
+
+User profile page
+![User profile page](./images/3.png)
 ## Problem
 
 Sometimes you have to text in your 5 group chats "is anyone at the dining hall". This app solves that problem by matching you with your friends.
